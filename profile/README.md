@@ -18,6 +18,8 @@ Outline VPN 可以在多种设备上使用，包括 Windows、macOS、Linux、An
 - 通过简单的步骤将其连接到服务器。
 - 连接成功后，您可以开始使用 Outline 进行自由访问互联网。
 
+[Outline VPN 错误消息及处理](https://blog.outlinevpn.net/outline-error-messages/)
+
 ## 在那里下载 Outline VPN 客户端
 
 [outlinevpn.net](https://outlinevpn.net) 提供 Outline 客户端下载
@@ -25,8 +27,6 @@ Outline VPN 可以在多种设备上使用，包括 Windows、macOS、Linux、An
 ## 如何获取 Outline VPN 密钥
 
 可以在 [outlinevpn.net](https://outlinevpn.net) 上购买 Outline VPN 密钥
-
-[Outline VPN 错误消息及处理](https://blog.outlinevpn.net/outline-error-messages/)
 
 科学上网工具
 
