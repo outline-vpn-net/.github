@@ -25,3 +25,13 @@ Outline VPN 可以在多种设备上使用，包括 Windows、macOS、Linux、An
 ## 如何获取 Outline VPN 密钥
 
 可以在 [outlinevpn.net](https://outlinevpn.net) 上购买 Outline VPN 密钥
+
+科学上网工具
+
+梯子
+
+翻墙
+
+魔法上网
+
+vpn 工具
