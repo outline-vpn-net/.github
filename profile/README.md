@@ -1,6 +1,6 @@
 ## Outline VPN 是什么
 
-Outline VPN 是一款基于 Shadowsocks 协议的开源跨平台科学上网工具。它可以帮助用户在网络受限制的环境下访问被屏蔽的网站和服务，如 Google、Facebook、Twitter 等。
+Outline VPN 是一款基于 Shadowsocks 协议的开源跨平台上网工具。它可以帮助用户在网络受限制的环境下访问被屏蔽的网站和服务，如 Google、Facebook、Twitter 等。
 Outline 通过创建一个虚拟私有网络（VPN）连接，将用户的网络流量进行加密和隧道化，从而绕过不安全的网络环境，实现自由访问互联网的目的。
 Outline VPN 的优点包括易于安装和使用、高效稳定、可靠安全等。 
 
@@ -28,15 +28,4 @@ Outline VPN 可以在多种设备上使用，包括 Windows、macOS、Linux、An
 
 可以在 [outlinevpn.net](https://outlinevpn.net) 上购买 Outline VPN 密钥
 
-科学上网工具
-
-梯子
-
-翻墙
-
-魔法上网
-
-vpn 工具
-
-机场节点
 
